@@ -1,0 +1,35 @@
+2024-03-18 10:54:24,760 - BaseApp  - 91  - INFO - Open site https://www.nseindia.com/
+2024-03-18 10:54:45,394 - BaseApp  - 75  - INFO - Find elements by locator ('css selector', '.navbar-light .navbar-nav .nav-link')
+2024-03-18 10:54:50,451 - Pages    - 29  - INFO - Hover over MARKET DATA
+2024-03-18 10:54:54,014 - Pages    - 32  - INFO - Click on Pre-Open Market
+2024-03-18 10:55:01,488 - Pages    - 79  - INFO - Get name
+2024-03-18 10:55:01,488 - BaseApp  - 75  - INFO - Find elements by locator ('css selector', 'a.symbol-word-break')
+2024-03-18 10:55:03,555 - Pages    - 81  - INFO - Get price
+2024-03-18 10:55:03,555 - BaseApp  - 75  - INFO - Find elements by locator ('css selector', '.customTable-width > .customHeight-table > tbody .bold')
+2024-03-18 10:55:03,577 - Pages    - 83  - INFO - Write data
+2024-03-18 10:55:04,510 - BaseApp  - 91  - INFO - Open site https://www.nseindia.com/
+2024-03-18 10:55:09,360 - BaseApp  - 75  - INFO - Find elements by locator ('css selector', '.tabs_boxes .nav-tabs .nav-link')
+2024-03-18 10:55:09,444 - Pages    - 48  - INFO - Click on NIFTY BANK
+46,594.10
+-195.85 (-0.42%)
+2024-03-18 10:55:09,531 - BaseApp  - 75  - INFO - Find elements by locator ('css selector', '.right_box')
+2024-03-18 10:55:09,614 - BaseApp  - 44  - INFO - Find element by locator ('css selector', '.right_box .link-wrap a') in parent <selenium.webdriver.remote.webelement.WebElement (session="848fdeadb09d75d48b739859f7a0b4e6", element="f.4CC6EF4E5710E699594401AE83CB49D4.d.F21655ADE5567BDEB34EDFA84A8EFE21.e.1051")>
+2024-03-18 10:55:09,634 - BaseApp  - 75  - INFO - Find elements by locator ('css selector', 'a.symbol-word-break')
+2024-03-18 10:55:10,171 - Pages    - 61  - INFO - Click on View All
+2024-03-18 10:55:15,518 - BaseApp  - 48  - INFO - Find element by locator ('id', 'equitieStockSelect')
+2024-03-18 10:55:15,542 - BaseApp  - 75  - INFO - Find elements by locator ('css selector', 'a.symbol-word-break')
+2024-03-18 10:55:18,146 - Pages    - 107 - INFO - Choose dropdown: NIFTY ALPHA 50
+2024-03-18 10:55:18,186 - BaseApp  - 75  - INFO - Find elements by locator ('css selector', 'a.symbol-word-break')
+2024-03-18 10:55:19,769 - Pages    - 120 - INFO - Scroll over table
+2024-03-18 10:55:23,825 - httpx    - 1026 - INFO - HTTP Request: GET https://syndication.twitter.com/srv/timeline-profile/screen-name/elonmusk "HTTP/1.1 200 OK"
+2024-03-18 10:55:23,825 - second_task - 81  - INFO - Status code: 200
+2024-03-18 10:55:23,828 - second_task - 88  - INFO - RT @cb_doge: Elon Musk talked about T.I.T.S and A.S.S on 𝕏-Space 🤣 https://t.co/U3Dmh1gjFI
+2024-03-18 10:55:23,828 - second_task - 88  - INFO - https://t.co/VaUCMxpbgD
+2024-03-18 10:55:23,828 - second_task - 88  - INFO - Please sign up to rate &amp; contribute Community Notes to increase accuracy on 𝕏!
+2024-03-18 10:55:23,828 - second_task - 88  - INFO - Still work to do, but this platform is already by far the most transparent &amp; truth-seeking (not a high bar tbh)
+2024-03-18 10:55:23,828 - second_task - 88  - INFO - RT @grok: @elonmusk @xai ░W░E░I░G░H░T░S░I░N░B░I░O░
+2024-03-18 10:55:23,828 - second_task - 88  - INFO - Many Americans still have no idea this happened
+2024-03-18 10:55:23,828 - second_task - 88  - INFO - Yeah
+2024-03-18 10:55:23,828 - second_task - 88  - INFO - !!
+2024-03-18 10:55:23,828 - second_task - 88  - INFO - How to share a post with people outside this platform
+2024-03-18 10:55:23,828 - second_task - 88  - INFO - https://t.co/ISL9LJboSF
