@@ -1,0 +1,22 @@
+2024-03-20 10:36:14,591 - utils    - 67  - INFO - Find elements by locator ('css selector', '.navbar-light .navbar-nav .nav-link')
+2024-03-20 10:36:19,095 - main     - 61  - INFO - Hover over MARKET DATA
+2024-03-20 10:36:22,878 - main     - 64  - INFO - Click on Pre-Open Market
+2024-03-20 10:36:27,838 - main     - 76  - INFO - Get name
+2024-03-20 10:36:27,838 - utils    - 67  - INFO - Find elements by locator ('css selector', 'a.symbol-word-break')
+2024-03-20 10:36:29,910 - main     - 78  - INFO - Get price
+2024-03-20 10:36:29,910 - utils    - 67  - INFO - Find elements by locator ('css selector', '.customTable-width > .customHeight-table > tbody .bold')
+2024-03-20 10:36:29,925 - main     - 80  - INFO - Write data
+2024-03-20 10:36:35,851 - utils    - 67  - INFO - Find elements by locator ('css selector', '.tabs_boxes .nav-tabs .nav-link')
+2024-03-20 10:36:35,944 - main     - 101 - INFO - Click on NIFTY BANK
+46,384.80
+-191.10 (-0.41%)
+2024-03-20 10:36:36,017 - utils    - 67  - INFO - Find elements by locator ('css selector', '.right_box')
+2024-03-20 10:36:36,276 - utils    - 35  - INFO - Find element by locator ('css selector', '.right_box .link-wrap a') in parent <selenium.webdriver.remote.webelement.WebElement (session="74344f7cb10efbe784201615f1bcc9c2", element="f.EE8CBA5A0A96133EE18CA5F7A4E8E72A.d.EADDADC7600B9B86541919E3233CBC92.e.989")>
+2024-03-20 10:36:36,294 - main     - 114 - INFO - Scroll to element
+2024-03-20 10:36:36,294 - utils    - 67  - INFO - Find elements by locator ('css selector', 'a.symbol-word-break')
+2024-03-20 10:36:36,324 - main     - 116 - INFO - Click on View All
+2024-03-20 10:36:41,942 - utils    - 39  - INFO - Find element by locator ('id', 'equitieStockSelect')
+2024-03-20 10:36:41,955 - utils    - 67  - INFO - Find elements by locator ('css selector', 'a.symbol-word-break')
+2024-03-20 10:36:44,565 - main     - 130 - INFO - Choose dropdown: NIFTY ALPHA 50
+2024-03-20 10:36:44,609 - utils    - 67  - INFO - Find elements by locator ('css selector', 'a.symbol-word-break')
+2024-03-20 10:36:46,163 - main     - 141 - INFO - Scroll over table
